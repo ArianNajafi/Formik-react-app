@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id":"1",
+      "name": "Arian",
+      "email": "ariandev45@gmail.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "gender": "male"
+  }
+  ]
+}
